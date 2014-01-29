@@ -1,0 +1,20 @@
+body.home .content-gallery li.ocfair .banner-content {
+	width:739px;
+}
+body.home .content-gallery li.ocfair .banner-content h2 {
+	float:left;
+	border:0;
+	font-size:30px;
+	width:190px;
+}
+body.home .content-gallery li.ocfair .banner-content .banner-content-inner {
+	border-left:1px solid #5a5a5a;
+	border-right:1px solid #5a5a5a;
+	float:left;
+	padding:0 10px;
+	width:376px;
+	margin-right:15px;
+}
+body.home .content-gallery li.ocfair .banner-content .btn {
+	float:left;
+}
